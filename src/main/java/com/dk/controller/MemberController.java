@@ -11,18 +11,6 @@ import org.springframework.web.bind.annotation.ResponseBody;
 
 import java.util.List;
 
-/**
- * 项目名称：springboot_mysql_test
- * 类名称：MemberController
- * 所在包:  com.dk
- * 类描述：
- * 创建人：史德雨
- * 创建时间：2020年03月03日 20:52
- * 修改人：史德雨
- * 修改时间：2020年03月03日 20:52
- * 修改备注：
- * 版本号: 1.0v
- */
 @Controller
 @RequestMapping("memberController")
 public class MemberController {
